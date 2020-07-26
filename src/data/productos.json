@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "categoria": "aceites",
+    "nombre": "Aceite de Coco virgen Organico x 225cc - Oh Yeah Its Vegan",
+    "descripcion": "Descripción bla",
+    "stock": 500,
+    "precio": 50000,
+    "descuento": 30,
+    "recomendado": "recomendado",
+    "imagen": "producto-1593829585998.jpg"
+  },
+  {
+    "id": 2,
+    "categoria": "aceites",
+    "nombre": "Aceite de coco puro Neutro x225ml - God Bless You",
+    "descripcion": "Descripcion 2",
+    "stock": 665465,
+    "precio": 13213,
+    "descuento": 0,
+    "recomendado": "vendido",
+    "imagen": "producto-1593829791979.jpg"
+  },
+  {
+    "id": 3,
+    "categoria": "aceites",
+    "nombre": "Aceite de Lino x 250ml - Campo Claro",
+    "descripcion": "Hola soy descripción!",
+    "stock": 132,
+    "precio": 135,
+    "descuento": 15,
+    "recomendado": "noRecomendado",
+    "imagen": "producto-1593830611517.jpg"
+  },
+  {
+    "id": 4,
+    "categoria": "aceites",
+    "nombre": "Aceto balsamico x 250cc - Anahata",
+    "descripcion": " Hola soy descripción!",
+    "stock": 666,
+    "precio": 332,
+    "descuento": 30,
+    "recomendado": "noRecomendado",
+    "imagen": "producto-1593830688512.jpg"
+  },
+  {
+    "id": 5,
+    "categoria": "bebidas",
+    "nombre": "Jugo de manzana roja x 1 Litro - Pura Frutta",
+    "descripcion": "Hola soy descripción!",
+    "stock": 789,
+    "precio": 176,
+    "descuento": 0,
+    "recomendado": "recomendado",
+    "imagen": "producto-1593830758621.jpg"
+  },
+  {
+    "id": 6,
+    "categoria": "bebidas",
+    "nombre": "Jugo de manzana verde x 1 Litro - Pura Frutta",
+    "descripcion": " Hola soy descripción!",
+    "stock": 4655,
+    "precio": 176,
+    "descuento": 15,
+    "recomendado": "vendido",
+    "imagen": "producto-1593830806912.jpg"
+  },
+  {
+    "id": 7,
+    "categoria": "bebidas",
+    "nombre": "Jugo de manzana y Arandanos x 1 Litro - Pura Frutta",
+    "descripcion": "Hola soy descripción!",
+    "stock": 369,
+    "precio": 210,
+    "descuento": 15,
+    "recomendado": "noRecomendado",
+    "imagen": "producto-1593830933671.jpg"
+  },
+  {
+    "id": 9,
+    "categoria": "endulzantes",
+    "nombre": "Azucar integral mascabo x 1 Kg",
+    "descripcion": "Hola soy descripción!",
+    "stock": 5552,
+    "precio": 248,
+    "descuento": 30,
+    "recomendado": "recomendado",
+    "imagen": "producto-1593831060766.jpg"
+  },
+  {
+    "id": 10,
+    "categoria": "endulzantes",
+    "nombre": "Miel Organica liquida x 400grs - Las Quinas",
+    "descripcion": "Hola soy descripción!",
+    "stock": 656,
+    "precio": 265,
+    "descuento": 0,
+    "recomendado": "vendido",
+    "imagen": "producto-1593831102689.jpg"
+  },
+  {
+    "id": 11,
+    "categoria": "harinas",
+    "nombre": "Fecula de Mandioca sin tacc x 1kg - Natuzen",
+    "descripcion": "Hola soy descripción!",
+    "stock": 354,
+    "precio": 248,
+    "descuento": 15,
+    "recomendado": "recomendado",
+    "imagen": "producto-1593832296136.png"
+  },
+  {
+    "id": 12,
+    "categoria": "harinas",
+    "nombre": "Almion de Maiz sin tacc x 1kg - Natuzen",
+    "descripcion": "Hola soy descripción!",
+    "stock": 656,
+    "precio": 228,
+    "descuento": null,
+    "recomendado": "vendido",
+    "imagen": "producto-1593832333241.png"
+  }
+]

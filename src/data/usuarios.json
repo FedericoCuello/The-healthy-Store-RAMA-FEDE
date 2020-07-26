@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Federico Nicolas",
+    "email": "cuellofederico94@gmail.com",
+    "telefono": "1160534153",
+    "contraseña": "$2a$10$YSG3n9c0btmI6Y94ePqI9uCxpn4L5aajaYpkoCGkCedAMpgYH6opW",
+    "imagen": "usuario-1595684398040.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Milagros zacariaz",
+    "email": "Mili@gmail.com",
+    "telefono": 1160534153,
+    "contraseña": "$2a$10$ZEvk4sZW61TBybnIMJlMpOTSeKlK1snL0tHxH0H77QtTkGrjZD2CG",
+    "imagen": "usuario-1595686010613.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Nicolas",
+    "email": "nico@gmail.com",
+    "telefono": 515151515151,
+    "contraseña": "$2a$10$3koFYAAx0be0NnY5OqzxVO3pA4kKjs/Iw90mZlWyM7kXQWB05DRzG",
+    "imagen": "usuario-1595711896562.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "gabo",
+    "email": "gabo@gmail.com",
+    "telefono": 351651651,
+    "contraseña": "$2a$10$RNjDYmqrprZhV7p8E7AIOuTbbUf90uEfeUbPy43Z3iTlp0ID2BO6C",
+    "imagen": "usuario-1595795590904.png"
+  },
+  {
+    "id": 5,
+    "nombre": "maxi",
+    "email": "maxi@gmail.com",
+    "telefono": 216516546512,
+    "contraseña": "$2a$10$m/yM8gTKMp3MogLFZ.AlH.l7XeijIRtuSIfizKE6w9kTFliR1GVR.",
+    "imagen": "usuario-1595796581157.jpg"
+  }
+]
